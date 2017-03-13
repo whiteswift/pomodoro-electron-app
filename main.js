@@ -6,13 +6,17 @@ let win
 
 function createWindow () {
   // Create the browser window.
-  win = new BrowserWindow({width: 300, height: 440, frame: false})
+  win = new BrowserWindow({width: 300, height: 440, frame: false, show: false, resizable: true})
+
+  win.once('ready-to-show', () => {
+    win.show()
+  })
 
   // and load the index.html of the app.
   win.loadURL(`file://${__dirname}/index.html`)
 
   // Open the DevTools.
-  win.webContents.openDevTools()
+  // win.webContents.openDevTools()
 
   // Emitted when the window is closed.
   win.on('closed', () => {

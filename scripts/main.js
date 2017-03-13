@@ -165,15 +165,15 @@
 
   function checkVolume(){
     let vol = localStorage.getItem('volume');
-    if (vol === 'true' || vol === '') {
-      volumeButton.children[0].setAttribute('src','assets/volume_on.svg');
-      localStorage.setItem('volume',true);
-    } else {
+    if (vol === 'false' || vol === '') {
       volumeButton.children[0].setAttribute('src','assets/volume_muted.svg');
       localStorage.setItem('volume',false);
+    } else {
+      volumeButton.children[0].setAttribute('src','assets/volume_on.svg');
+      localStorage.setItem('volume',true);
     }
   }
-
+  
   // Request desktop permissions
   Notification.requestPermission();
   checkVolume();
