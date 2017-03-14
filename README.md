@@ -1,3 +1,8 @@
+# Pomodoro Electron App
+A copy of [this project](https://github.com/whiteswift/pomodoro-pwa) as an electron app. It runs on your desktop and looks fabulous. 💅
+
+![alt tag](https://raw.githubusercontent.com/whiteswift/pomodoro-electron-app/master/assets/wallpaper.png)
+
 # To run 👟
 
 - Install electron globally 🌍

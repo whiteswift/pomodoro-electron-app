@@ -23,11 +23,6 @@ self.addEventListener('install', e => {
   )
 });
 
-// '/assets/pomodoro_256.png',
-//         '/assets/pomodoro_144.png',
-//         '/assets/pomodoro_64.png',
-//         '/assets/alarm.mp3'
-
 self.addEventListener('activate',  event => {
   event.waitUntil(self.clients.claim());
 });
