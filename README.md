@@ -6,9 +6,8 @@
 
 # To package 🎁
 
-- Do some stuff to the package.json file 🤣🤘
 - `npm run dist` 🏃
-- Open the .dmg file 📂
+- Open the .dmg file in the 'dist' folder 📂
 
 If you really like it, drag it to your applications folder 🤝
 
