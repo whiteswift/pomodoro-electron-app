@@ -3,18 +3,22 @@ A copy of [this project](https://github.com/whiteswift/pomodoro-pwa) as an elect
 
 ![alt tag](https://raw.githubusercontent.com/whiteswift/pomodoro-electron-app/master/assets/wallpaper.png)
 
-# To run 👟
+# Shut up and let me download it 😘
+
+https://drive.google.com/open?id=0B3CaT12NjWOaTVFjb0YwX196TTQ
+
+# To run on the fly 👟
 
 - Install electron globally 🌍
     - `npm install -g electron` 🌈
 - Run `electron .` ⚡️
 
-# To package 🎁
+# To install and run as a .dmg 🎁
 
+- `yarn/npm install`
 - `npm run dist` 🏃
 - Open the .dmg file in the 'dist' folder 📂
-
-If you really like it, drag it to your applications folder 🤝
+- Drag it to your applications folder 🤝
 
 # More info 📚
 
