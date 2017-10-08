@@ -5,7 +5,7 @@ A copy of [this project](https://github.com/whiteswift/pomodoro-pwa) as an elect
 
 # Shut up and let me download it 😘
 
-https://drive.google.com/open?id=0B3CaT12NjWOaTVFjb0YwX196TTQ
+https://drive.google.com/open?id=0B3CaT12NjWOaTzVPMHMtQmprS1k
 
 # To run on the fly 👟
 
@@ -32,4 +32,4 @@ https://drive.google.com/open?id=0B3CaT12NjWOaTVFjb0YwX196TTQ
 - https://github.com/electron-userland/electron-builder
 
 ## To donate 💰
-🤣😂🤣😂🤣 Put a penny in a charity box 😐
+🤣 Put a penny in a charity box 😐
