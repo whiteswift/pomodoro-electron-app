@@ -6,7 +6,7 @@
   "main": "main.js",
   "icon": "assets/pomodoro_256.png",
   "devDependencies": {
-    "electron": "^1.6.2",
+    "electron": "^9.1.0",
     "electron-builder": "~19.34.2",
     "electron-packager": "^8.5.2"
   },
